@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nivedita Sutariya</h1>
 <h3 align="center">A passionate frontend Web Designer from India</h3>
 
-- 🌱 I’m currently learning **Bootstrap,html5,css3,jquery,sass**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
